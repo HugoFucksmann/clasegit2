@@ -39,4 +39,3 @@ async function getAllPokemons(name, age, evolution) {
 
 getPikachu();
 getAllPokemons();
-console.log("HOLA MUNDO");
