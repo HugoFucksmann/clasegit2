@@ -92,6 +92,11 @@ function appendH1(){
 
 }
 
+function suma(x,y,z){
+
+  return x + y + z
+}
+
 function cortarTexto(text){
   try {
 
@@ -107,3 +112,4 @@ function cortarTexto(text){
 
 console.log(cortarTexto(2134214));
 getResult();
+console.log("Hello ");
