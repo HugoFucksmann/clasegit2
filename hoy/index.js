@@ -92,6 +92,11 @@ function appendH1(){
 
 }
 
+function suma(x,y,z){
+
+  return x + y + z
+}
+
 function cortarTexto(text){
   try {
 
