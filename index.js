@@ -40,3 +40,24 @@ async function getAllPokemons(name, age, evolution) {
 getPikachu();
 getAllPokemons();
 console.log("HOLA MUNDO");
+
+/* 
+git config --list  
+
+git config --global [key] "valor"
+
+git status
+
+git init
+
+git add .
+
+git commit -m "mensaje"
+
+git push 
+
+git branch "nombre de rama"
+
+git checkout "nombre de la rama creada"
+
+*/
