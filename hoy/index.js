@@ -107,3 +107,4 @@ function cortarTexto(text){
 
 console.log(cortarTexto(2134214));
 getResult();
+console.log("Hello ");
